@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: rgb(167, 170, 190);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+
+}
+
+.cabecalho{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+header{
+    background-color: aqua;
+    color: azure;
+    padding: 10px;
+}
